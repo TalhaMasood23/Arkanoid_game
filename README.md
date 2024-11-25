@@ -29,3 +29,8 @@ Local Server
 - Lives system
 - Colorful blocks
 - Win/lose conditions
+
+## Screenshots
+
+![Game Screenshot 1](001.png)
+![Game Screenshot 2](002.png)
