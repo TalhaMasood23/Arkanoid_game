@@ -15,7 +15,7 @@ git clone
 ## How to Play
 1. Run the game:
 ```bash
-Local Server
+Local Server locally
 ```
 
 2. Controls:
