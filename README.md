@@ -1,4 +1,4 @@
-# Arkanoid Game (JS-Version)
+# Arkanoid Game (JS-Versions)
 
 A classic Arkanoid/Breakout style game implemented in JS.
 
